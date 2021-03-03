@@ -4,9 +4,9 @@
 
 export const application: IApplication = {
   port: 4000,
-  title: 'SII - Sistema de cadastramento para o selo Infra+ de Integridade',
+  title: 'NPS Survey API',
   description:
-    'SII - Sistema de cadastramento para o selo Infra+ de Integridade',
+    'Net Promoter Score - Survey',
    abbreviation: "environment.application.abbreviation",
    version: "environment.application.version",
    environment: "develop",
