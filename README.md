@@ -24,14 +24,14 @@ Make surveys and receive feedback e-mails with NPS result.
 
 ### Get Started
 
-´´ javascript
+``` javascript
   git clone https://github.com/FelippeBritto/nps_survey.git
   cd nps_survey
   yarn or npm install
-´´ 
+``` 
 
-´´ js 
+``` js 
   yarn start or npm run start
   or
   yarn test or npm run test
-´´
+```
