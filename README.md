@@ -29,6 +29,7 @@ Make surveys and receive feedback e-mails with NPS result.
   cd nps_survey
   yarn or npm install
 ``` 
+### Running
 
 ``` js 
   yarn start or npm run start
