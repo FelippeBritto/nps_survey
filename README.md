@@ -1,12 +1,14 @@
-# NPS Survey V1
+# NPS Survey V1 | :smiley: | :neutral_face: | :weary:
 
 Make surveys and receive feedback e-mails with NPS result.
 
-## Features
+## :pushpin: Features
 
-* Feedback e-mail;
+* Customer register :busts_in_silhouette:
 
-## Build with
+* Feedback e-mail :email:
+
+## :wrench: Build with 
 
 * SQLite
 
@@ -22,7 +24,7 @@ Make surveys and receive feedback e-mails with NPS result.
 
 * TypeOrm
 
-### Get Started
+### Get Started 
 
 ``` javascript
   git clone https://github.com/FelippeBritto/nps_survey.git
